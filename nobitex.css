@@ -57,3 +57,8 @@ body{
     color: #fff;
     font-size: 15px;
 }
+#invite-titr a{
+    text-decoration: none;
+    color: #fff;
+    border-bottom: #fff solid 1px;
+}
