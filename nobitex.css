@@ -42,9 +42,9 @@ body{
     height: 1800px;
     direction: rtl;
 }
-#inviteheader{
+.header{
     height: 38px;
-    background-color: #2d41a9;
+    background-color: #141b52 ;
     display: flex;
     flex-direction: row;
 }
