@@ -63,5 +63,5 @@ body{
     border-bottom: #fff solid 1px;
 }
 #language-button{
-    display: none;
+    display: none !important;
 }
