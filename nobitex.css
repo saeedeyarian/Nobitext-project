@@ -65,3 +65,8 @@ body{
 #language-button{
     display: none !important;
 }
+#language-button {
+    font-size: 12px;
+    display: flex !important;
+    flex-direction: row;
+}
