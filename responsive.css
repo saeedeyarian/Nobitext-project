@@ -3,3 +3,9 @@
         display: block;
     }
 }
+@media only screen and (min-width:570px){
+    #invite-titr{
+        margin-top: -7px !important;
+        font-size: 17px;
+    }
+}
