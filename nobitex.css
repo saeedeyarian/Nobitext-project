@@ -51,3 +51,8 @@ body{
 #invite-titr{
     display: none;
 }
+#invite-titr{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+}
