@@ -47,6 +47,7 @@ body{
     background-color: #141b52 ;
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 #invite-titr{
     display: none;
