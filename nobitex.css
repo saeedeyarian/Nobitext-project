@@ -4,6 +4,8 @@
 }
 body{
     height: 1800px;
+    float: right;
+    direction: rtl;
 }
 #inviteheader{
     height: 38px;
