@@ -13,4 +13,8 @@
     #language-button{
         display: block !important;
     }
+    #invite-titr{
+        text-align: left;
+        width: 55%;
+    }
 }
