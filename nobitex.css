@@ -56,17 +56,23 @@ body{
     text-align: center;
     color: #fff;
     font-size: 15px;
+    width: 40%;
 }
 #invite-titr a{
     text-decoration: none;
     color: #fff;
     border-bottom: #fff solid 1px;
 }
-#language-button{
-    display: none !important;
-}
 #language-button {
-    font-size: 12px;
+    font-size: 17px;
+    width: 20%;
+    height: 50px;
+    margin-top: -15px;
+    text-align: center;
+    line-height: 50px;
     display: flex !important;
-    flex-direction: row;
+    flex-direction: row !important;
+}
+#language-button{
+    display: none;
 }
