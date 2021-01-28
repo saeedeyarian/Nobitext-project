@@ -74,6 +74,10 @@ body{
     flex-direction: row !important;
     word-spacing: 7px;
 }
+#language-button a{
+    color: #fff;
+    text-decoration: none
+}
 #language-button{
     display: none;
 }
