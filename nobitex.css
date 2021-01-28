@@ -78,6 +78,9 @@ body{
     color: #fff;
     text-decoration: none
 }
+#language-button a:hover{
+    color: #2ed596;
+}
 #language-button{
     display: none;
 }
