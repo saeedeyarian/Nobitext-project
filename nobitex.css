@@ -56,7 +56,6 @@ body{
     text-align: center;
     color: #fff;
     font-size: 15px;
-    width: 40%;
 }
 #invite-titr a{
     text-decoration: none;
@@ -82,5 +81,5 @@ body{
     color: #2ed596;
 }
 #language-button{
-    display: none;
+    display: none !important;
 }
