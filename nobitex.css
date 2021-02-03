@@ -109,3 +109,7 @@ body{
 #main-menue li:hover{
     border-bottom:4px solid  #2d40a1;
 }
+#main-menue li a{
+    text-decoration: none;
+    color: #1c2c7e;
+}
