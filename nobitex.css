@@ -88,7 +88,7 @@ body{
     display: flex;
     flex-direction: row;
     font-size: 16px;
-    box-shadow: 2px 2px 5px #6c757d;
+    box-shadow: 2px 2px 5px #b5a3bb;
 }
 #main-menue{
     display: flex;
@@ -97,4 +97,5 @@ body{
     position: relative;
     margin-top: -15px;
     width: 40%;
+    line-height: 60px;
 }
