@@ -83,3 +83,8 @@ body{
 #language-button{
     display: none !important;
 }
+.dropdown-menue{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
