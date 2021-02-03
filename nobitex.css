@@ -103,8 +103,9 @@ body{
     line-height: 60px;
 }
 #main-menue li{
-     padding:0 25px 0 25px;
+     padding:0 20px 0 20px;
      list-style-type: none;
+     font-weight: bold;
 }
 #main-menue li:hover{
     border-bottom:4px solid  #2d40a1;
