@@ -114,3 +114,7 @@ body{
     text-decoration: none;
     color: #1c2c7e;
 }
+#main-menue li a:hover{
+    color:  #2ed596;
+    transition: all 0.5s;
+}
