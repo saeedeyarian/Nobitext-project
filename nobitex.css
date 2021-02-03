@@ -99,10 +99,13 @@ body{
     height: 60px;
     position: relative;
     margin-top: -15px;
-    width: 40%;
+    width: 45%;
     line-height: 60px;
 }
 #main-menue li{
-     padding-right: 25px;
+     padding:0 25px 0 25px;
      list-style-type: none;
+}
+#main-menue li:hover{
+    border-bottom:4px solid  #2d40a1;
 }
