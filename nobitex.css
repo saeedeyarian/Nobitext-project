@@ -144,3 +144,7 @@ body{
     height: 50px;
     line-height: 35px;
 }
+#subset-menue2 li:hover{
+    border-bottom: 0px solid;
+    background-color:#eed9f7 ;
+}
