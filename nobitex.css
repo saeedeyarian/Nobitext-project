@@ -50,7 +50,7 @@ body{
     justify-content: space-around;
 }
 #invite-titr{
-    display: none;
+    display: none !important;
 }
 #invite-titr{
     text-align: center;
@@ -84,7 +84,7 @@ body{
     display: none !important;
 }
 .dropdown-menue{
-    display: none;
+    display: none !important;
 }
 .dropdown-menue{
     height: 60px;
@@ -99,7 +99,6 @@ body{
     height: 60px;
     position: relative;
     margin-top: -15px;
-    width: 45%;
     line-height: 60px;
 }
 #main-menue li{
