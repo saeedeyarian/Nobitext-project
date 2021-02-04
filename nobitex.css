@@ -139,8 +139,8 @@ body{
 #subset-menue2 {
     position: absolute;
 }
-#subset-menue1 li {
-    width: 100px;
+#subset-menue2 li {
+    width: 160px;
     height: 50px;
     line-height: 35px;
 }
