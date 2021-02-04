@@ -121,6 +121,11 @@ body{
 #subset-menue1 {
     position: absolute;
 }
+#subset-menue1 li {
+    width: 170px;
+    height: 50px;
+    line-height: 35px;
+}
 #subset-menue1 li:hover{
     border-bottom: 0px solid;
     background-color:#eed9f7 ;
