@@ -118,8 +118,6 @@ body{
     color:  #2ed596;
     transition: all 0.5s;
 }
-#subset-menue1 li{
+#subset-menue1 {
     position: absolute;
-    height: 25px;
-    list-style-type: none;
 }
